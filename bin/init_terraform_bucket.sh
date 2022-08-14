@@ -1,4 +1,5 @@
 #!/bin/sh
+# see: https://nekopunch.hatenablog.com/entry/2018/03/28/100042
 
 set -ex
 
